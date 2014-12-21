@@ -1,0 +1,5 @@
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\MoonWeight\bin\Debug\MoonWeight.exe.config
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\MoonWeight\bin\Debug\MoonWeight.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\MoonWeight\bin\Debug\MoonWeight.pdb
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\MoonWeight\obj\Debug\MoonWeight.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\MoonWeight\obj\Debug\MoonWeight.pdb

@@ -1,0 +1,6 @@
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PointInCircle\bin\Debug\PointInCircle.exe.config
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PointInCircle\bin\Debug\PointInCircle.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PointInCircle\bin\Debug\PointInCircle.pdb
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PointInCircle\obj\Debug\PointInCircle.csprojResolveAssemblyReference.cache
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PointInCircle\obj\Debug\PointInCircle.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PointInCircle\obj\Debug\PointInCircle.pdb

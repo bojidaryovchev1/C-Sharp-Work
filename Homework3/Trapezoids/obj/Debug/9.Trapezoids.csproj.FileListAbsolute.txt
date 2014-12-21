@@ -1,0 +1,5 @@
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\Trapezoids\bin\Debug\Trapezoids.exe.config
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\Trapezoids\bin\Debug\Trapezoids.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\Trapezoids\bin\Debug\Trapezoids.pdb
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\Trapezoids\obj\Debug\Trapezoids.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\Trapezoids\obj\Debug\Trapezoids.pdb

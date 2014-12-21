@@ -1,0 +1,7 @@
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\AdvancedBitsExchange\bin\Debug\AdvancedBitsExchange.exe.config
+C:\Users\Grisword\Documents\Visual Studio 2012\Projects\Homework3\AdvancedBitsExchange\bin\Debug\AdvancedBitsExchange.exe
+C:\Users\Grisword\Documents\Visual Studio 2012\Projects\Homework3\AdvancedBitsExchange\bin\Debug\AdvancedBitsExchange.pdb
+C:\Users\Grisword\Documents\Visual Studio 2012\Projects\Homework3\AdvancedBitsExchange\obj\Debug\AdvancedBitsExchange.exe
+C:\Users\Grisword\Documents\Visual Studio 2012\Projects\Homework3\AdvancedBitsExchange\obj\Debug\AdvancedBitsExchange.pdb
+D:\C#\Projects\Homework3\Homework3\AdvancedBitsExchange\bin\Debug\AdvancedBitsExchange.exe.config
+D:\C#\Projects\Homework3\Homework3\AdvancedBitsExchange\obj\Debug\AdvancedBitsExchange.pdb

@@ -1,0 +1,3 @@
+D:\C#\Projects\Homework3\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\C#\Projects\Homework3\OddOrEven\obj\Debug\OddOrEven.exe
+D:\C#\Projects\Homework3\OddOrEven\obj\Debug\OddOrEven.pdb

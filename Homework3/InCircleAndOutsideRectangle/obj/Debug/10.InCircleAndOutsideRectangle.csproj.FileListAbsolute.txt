@@ -1,0 +1,6 @@
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\InCircleAndOutsideRectangle\bin\Debug\InCircleAndOutsideRectangle.exe.config
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\InCircleAndOutsideRectangle\bin\Debug\InCircleAndOutsideRectangle.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\InCircleAndOutsideRectangle\bin\Debug\InCircleAndOutsideRectangle.pdb
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\InCircleAndOutsideRectangle\obj\Debug\10.InCircleAndOutsideRectangle.csprojResolveAssemblyReference.cache
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\InCircleAndOutsideRectangle\obj\Debug\InCircleAndOutsideRectangle.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\InCircleAndOutsideRectangle\obj\Debug\InCircleAndOutsideRectangle.pdb

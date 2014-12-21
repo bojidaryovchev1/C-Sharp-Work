@@ -1,0 +1,3 @@
+C:\Users\Grisword\Documents\Visual Studio 2012\Projects\Homework3\ExerciseOverAdvancedProblem\bin\Debug\ExerciseOverAdvancedProblem.exe.config
+C:\Users\Grisword\Documents\Visual Studio 2012\Projects\Homework3\ExerciseOverAdvancedProblem\obj\Debug\ExerciseOverAdvancedProblem.exe
+C:\Users\Grisword\Documents\Visual Studio 2012\Projects\Homework3\ExerciseOverAdvancedProblem\obj\Debug\ExerciseOverAdvancedProblem.pdb

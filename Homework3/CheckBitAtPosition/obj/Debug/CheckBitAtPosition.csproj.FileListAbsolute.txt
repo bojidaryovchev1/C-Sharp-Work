@@ -1,0 +1,5 @@
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.exe.config
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.pdb
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\CheckBitAtPosition\obj\Debug\CheckBitAtPosition.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\CheckBitAtPosition\obj\Debug\CheckBitAtPosition.pdb

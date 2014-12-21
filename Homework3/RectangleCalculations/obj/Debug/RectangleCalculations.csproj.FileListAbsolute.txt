@@ -1,0 +1,5 @@
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\RectangleCalculations\bin\Debug\RectangleCalculations.exe.config
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\RectangleCalculations\bin\Debug\RectangleCalculations.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\RectangleCalculations\bin\Debug\RectangleCalculations.pdb
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\RectangleCalculations\obj\Debug\RectangleCalculations.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\RectangleCalculations\obj\Debug\RectangleCalculations.pdb

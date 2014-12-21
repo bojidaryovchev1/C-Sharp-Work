@@ -1,0 +1,6 @@
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PrimeNumber\bin\Debug\PrimeNumber.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PrimeNumber\bin\Debug\PrimeNumber.pdb
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PrimeNumber\obj\Debug\PrimeNumber.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PrimeNumber\obj\Debug\PrimeNumber.pdb
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\PrimeNumber\obj\Debug\8.PrimeNumber.csprojResolveAssemblyReference.cache

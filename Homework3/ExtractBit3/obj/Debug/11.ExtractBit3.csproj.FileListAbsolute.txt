@@ -1,0 +1,5 @@
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\ExtractBit3\bin\Debug\ExtractBit3.exe.config
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\ExtractBit3\bin\Debug\ExtractBit3.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\ExtractBit3\bin\Debug\ExtractBit3.pdb
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\ExtractBit3\obj\Debug\ExtractBit3.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\ExtractBit3\obj\Debug\ExtractBit3.pdb

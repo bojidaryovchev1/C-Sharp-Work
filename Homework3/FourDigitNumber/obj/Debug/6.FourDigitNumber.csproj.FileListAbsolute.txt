@@ -1,0 +1,3 @@
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

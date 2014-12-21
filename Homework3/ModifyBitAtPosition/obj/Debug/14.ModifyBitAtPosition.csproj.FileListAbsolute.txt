@@ -1,0 +1,6 @@
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\ModifyBitAtPosition\bin\Debug\ModifyBitAtPosition.exe.config
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\ModifyBitAtPosition\bin\Debug\ModifyBitAtPosition.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\ModifyBitAtPosition\bin\Debug\ModifyBitAtPosition.pdb
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\ModifyBitAtPosition\obj\Debug\14.ModifyBitAtPosition.csprojResolveAssemblyReference.cache
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\ModifyBitAtPosition\obj\Debug\ModifyBitAtPosition.exe
+c:\users\grisword\documents\visual studio 2012\Projects\Homework3\ModifyBitAtPosition\obj\Debug\ModifyBitAtPosition.pdb
